@@ -22,9 +22,11 @@ src/
 
 ### `flowzed1x0.sol`
 The primary ERC-721A contract governing The Merkle Tree collection.
+- Ethereum Mainnet address: [0x38d2e875ca963d87801C8FA5f6E3B4EDd21cabE7](https://etherscan.io/address/0x38d2e875ca963d87801c8fa5f6e3b4edd21cabe7)
 
 ### `zedpass1x0.sol`
 ERC-1155 contract handling ZedPass mechanics.
+- Ethereum Mainnet address: [0x06502e996723BBB690777f07cD462411C6Be56DF](https://etherscan.io/address/0x06502e996723BBB690777f07cD462411C6Be56DF)
 
 ---
 
